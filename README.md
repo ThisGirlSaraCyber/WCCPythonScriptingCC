@@ -1,2 +1,2 @@
 # WCCPythonScriptingCC
-10/07/20
+## Use this repo to share and collab with the Cybersecurity WCC peeps! 
